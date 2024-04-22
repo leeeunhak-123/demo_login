@@ -1,0 +1,20 @@
+@font-face {
+  font-family: DoHyeon;
+  src: url("./fonts/DoHyeon-Regular.ttf");
+}
+@font-face {
+  font-family: Dongle;
+  src: url("./fonts/Dongle-Regular.ttf");
+}
+@font-face {
+  font-family: Gugi;
+  src: url("./fonts/Gugi-Regular.ttf");
+}
+@font-face {
+  font-family: Nexon_football;
+  src:url("./fonts/NEXONFootballGothicB.ttf");
+}
+@font-face {
+  font-family: Nexon_stick;
+  src:url("./fonts/NEXONFootballGothicL.ttf");
+}
